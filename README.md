@@ -1,7 +1,11 @@
 # sugarApp
-a 48 hour coding challenge for a job at Google
 
-This was a coding challenge from Google. It was sent to a recruiter who never got back to me. 
+This was a coding challenge from Google. 
+
+It uses OOD to create a CLI to create a tic-tac-toe game. 
+It took me about a day and a half to complete.
+
+It was sent to a recruiter who never got back to me. 
 I would really appreciate feedback on my code. Thanks!
 
 Jason
