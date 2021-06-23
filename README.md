@@ -5,9 +5,6 @@ This was a coding challenge from Google.
 It uses OOD to create a CLI-based tic-tac-toe game. 
 It took me about a day and a half to complete.
 
-It was sent to a recruiter who never got back to me. 
-I would really appreciate feedback on my code. Thanks!
-
 Jason
 ---------------------------------------
 
